@@ -1,0 +1,8 @@
+.fetch-data {
+	font-size: 28px;
+}
+.fetch-data__error {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+}

@@ -1,0 +1,12 @@
+.base-button {
+	transition: 0.5s;
+	cursor: pointer;
+	border: none;
+	background: #e3e3e3;
+	padding: 5px 10px;
+	font-size: 20px;
+}
+
+.base-button:hover {
+	opacity: 0.5;
+}

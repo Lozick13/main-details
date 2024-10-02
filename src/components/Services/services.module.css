@@ -1,0 +1,21 @@
+.services {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+.services__status {
+	font-size: 28px;
+}
+.services__items {
+	list-style: none;
+}
+.services__item {
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+}
+.services__item:hover {
+	text-decoration:underline;
+}
